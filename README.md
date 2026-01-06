@@ -49,3 +49,8 @@ Email Me 👉 ✉️ **sudiptashuvro@gmail.com** For Collaboration/Project or An
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="Superman Flying" />
+  
+  <p><b>Curiosity unlocked Superman mode 🦸‍♂️</b></p>
+</div>
