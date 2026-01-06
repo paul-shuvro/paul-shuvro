@@ -11,6 +11,10 @@ Email Me 👉 ✉️ **sudiptashuvro@gmail.com** For Collaboration/Project or An
 - 📫 **How to reach me:** sudiptashuvro@gmail.com
 - 😄 **Pronouns:** Sudipta Paul
 - ⚡ **Fun fact:** I Love Playing Games and Games Love Me
+
+- 3d Cool Statistics
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="400">
+<br><br>
   
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sudipta.paul)
@@ -29,6 +33,10 @@ Email Me 👉 ✉️ **sudiptashuvro@gmail.com** For Collaboration/Project or An
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+- Tech Stack floating
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
+<br><br>
 
 ---
 <!-- Snake Game Repo View -->
@@ -49,8 +57,7 @@ Email Me 👉 ✉️ **sudiptashuvro@gmail.com** For Collaboration/Project or An
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="Superman Flying" />
-  
-  <p><b>Curiosity unlocked Superman mode 🦸‍♂️</b></p>
-</div>
+
+- Mario
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
