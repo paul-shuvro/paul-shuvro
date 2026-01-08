@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Sudipta Paul
+# 💫 Greetings! I’m Sudipta Paul
 
 📧 **Email me:** ✉️ **sudiptashuvro@gmail.com**  
 Open for **collaboration, research, projects, or anything interesting** 😊
