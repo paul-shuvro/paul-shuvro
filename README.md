@@ -53,10 +53,14 @@ Open for **collaboration, research, projects, or anything interesting** 😊
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-### 🧠 Tech Stack in Motion
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500"/>
+<p align="center">
+ 
+  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500"/>
+</p>
 
----
+<hr>
+
 
 ## 🐍 Contribution Snake
 
