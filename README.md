@@ -3,7 +3,7 @@
 📧 **Email me:** ✉️ **sudiptashuvro@gmail.com**  
 Open for **collaboration, research, projects, or anything interesting** 😊
 
----
+
 
 ## 🚀 About Me
 
@@ -39,7 +39,7 @@ Open for **collaboration, research, projects, or anything interesting** 😊
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sauve.sudipto)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sudipta-paul)
 
----
+
 
 ## 💻 Tech Stack
 
@@ -59,7 +59,6 @@ Open for **collaboration, research, projects, or anything interesting** 😊
   <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500"/>
 </p>
 
-<hr>
 
 
 ## 🐍 Contribution Snake
@@ -94,7 +93,5 @@ Open for **collaboration, research, projects, or anything interesting** 😊
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
 </div>
 
-
----
 
 ⭐ *Proudly built with passion, curiosity, and a lot of debugging.*  
