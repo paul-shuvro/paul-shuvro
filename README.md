@@ -1,8 +1,9 @@
 # 💫 Greetings! I’m Sudipta Paul
 
-📧 **Email me:** ✉️ **sudiptashuvro@gmail.com**  
-Open for **collaboration, research, projects, or anything interesting** 😊
-
+Passionate about **Geospatial AI, Remote sensing and environmental risk prediction, Satellite Imagery and Weather Data, Machine Learning and Web Development**😊 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Geospatial+AI;Remote+Sensing;Satellite+Imagery+and+Weather+Data;Web+Development;Graphics+Design" alt="Typing SVG"/>
+</p>
 
 
 ## 🚀 About Me
@@ -86,6 +87,10 @@ Open for **collaboration, research, projects, or anything interesting** 😊
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
 </div>
+
+---
+
+📧 **Email me:** ✉️ **sudiptashuvro@gmail.com**
 
 ---
 ⭐ *Proudly built with passion, curiosity, and a lot of debugging.*  
