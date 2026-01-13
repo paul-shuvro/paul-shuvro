@@ -80,7 +80,6 @@ Open for **collaboration, research, projects, or anything interesting** 😊
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 
 ## 🎮 Mario
 
