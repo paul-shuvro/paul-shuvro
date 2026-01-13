@@ -67,14 +67,12 @@ Open for **collaboration, research, projects, or anything interesting** 😊
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
 </div>
 
-## 📊 GitHub Stats
-
+### 🌟 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paul-shuvro&theme=dark&hide_border=false" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=paul-shuvro&theme=dark&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul-shuvro&theme=dark&hide_border=false&layout=compact" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=paul-shuvro&show_icons=true&theme=dark&hide_border=false" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paul-shuvro&layout=compact&theme=dark&langs_count=6&hide_border=false" height="150" alt="Top languages" />
+  <img src="https://github-readme-streak-stats-rho-murex-11.vercel.app/?user=paul-shuvro&theme=dark&hide_border=false" height="150" alt="GitHub streak" />
 </div>
 
 
