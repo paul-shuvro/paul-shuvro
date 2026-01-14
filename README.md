@@ -28,6 +28,16 @@ Passionate about **Geospatial AI, Remote sensing and environmental risk predicti
 - ⚡ **Fun fact:** I love playing games — and games love me back 🎮😄  
 
 ---
+
+### 🌟 GitHub Stats
+<div align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=paul-shuvro&show_icons=true&theme=dark&hide_border=false" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paul-shuvro&layout=compact&theme=dark&langs_count=6&hide_border=false" height="150" alt="Top languages" />
+  <img src="https://github-readme-streak-stats-rho-murex-11.vercel.app/?user=paul-shuvro&theme=dark&hide_border=false" height="150" alt="GitHub streak" />
+</div>
+
+
 <p align="center">
    
   <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
@@ -61,14 +71,6 @@ Passionate about **Geospatial AI, Remote sensing and environmental risk predicti
 </p>
 
 ---
-
-### 🌟 GitHub Stats
-<div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=paul-shuvro&show_icons=true&theme=dark&hide_border=false" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paul-shuvro&layout=compact&theme=dark&langs_count=6&hide_border=false" height="150" alt="Top languages" />
-  <img src="https://github-readme-streak-stats-rho-murex-11.vercel.app/?user=paul-shuvro&theme=dark&hide_border=false" height="150" alt="GitHub streak" />
-</div>
 
 
 ## 🐍 Contribution Snake
