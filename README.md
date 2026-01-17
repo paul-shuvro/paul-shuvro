@@ -8,7 +8,7 @@ Passionate about **Geospatial AI, Remote sensing and environmental risk predicti
 
 ## 🚀 About Me
 
-- 🔭 **Currently working on:** Geospatial AI & Remote Sensing  
+- 🔭 **Learning focus:** Geospatial AI & Remote Sensing  
 - 🌱 **Currently learning:** Satellite-based remote sensing and geospatial machine learning for environmental risk prediction  
 - 👯 **Looking to collaborate on:**  
   **Flood Prediction using Satellite & Weather Data**  
