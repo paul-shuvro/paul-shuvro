@@ -1,4 +1,4 @@
-# 💫 Greetings! I’m Sudipta Paul
+# ⭐ Great to be here! I’m Sudipta Paul
 
 Passionate about **Geospatial AI, Remote sensing and environmental risk prediction, Satellite Imagery and Weather Data, Machine Learning and Web Development**😊 
 <p align="center">
