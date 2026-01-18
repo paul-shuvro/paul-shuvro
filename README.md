@@ -25,7 +25,7 @@ Passionate about **Geospatial AI, Remote sensing and environmental risk predicti
   - Machine learning & deep learning for geospatial data  
 - 📫 **Reach me at:** **sudiptashuvro@gmail.com**  
 - 🕴️ **Pronouns:** He/Him  
-- ⚡ **Fun fact:** I love playing games — and games love me back 🎮😄  
+- 🎭 **Fun fact:** I love playing games — and games love me back 🎮😄  
 
 ---
 
@@ -92,7 +92,7 @@ Passionate about **Geospatial AI, Remote sensing and environmental risk predicti
 
 ---
 
-📮 **Email me:** ✉️ **sudiptashuvro@gmail.com**
+📮 **Email me:**  **sudiptashuvro@gmail.com**
 
 ---
 ⭐ *Proudly built with passion, curiosity, and a lot of debugging.*  
