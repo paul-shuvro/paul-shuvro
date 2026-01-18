@@ -6,11 +6,11 @@ Passionate about **Geospatial AI, Remote sensing and environmental risk predicti
 </p>
 
 
-## 🚀 About Me
+## 👨🏻‍🎓 About Me
 
-- 🔭 **Learning focus:** Geospatial AI & Remote Sensing  
+- 🧗🏻 **Learning focus:** Geospatial AI & Remote Sensing  
 - 🧑‍💻 **Currently learning:** Satellite-based remote sensing and geospatial machine learning for environmental risk prediction  
-- 👯 **Looking to collaborate on:**  
+- 🕵️‍♂️ **Looking to collaborate on:**  
          **Flood Prediction using Satellite & Weather Data**  
          *(Geospatial AI, Remote Sensing, CNN–LSTM, Google Earth Engine)*  
 - 🤔 **Looking for help with:**  
@@ -18,18 +18,18 @@ Passionate about **Geospatial AI, Remote sensing and environmental risk predicti
   - Feature engineering from geospatial & meteorological data  
   - Improving deep learning models (CNN, LSTM, hybrid architectures)  
   - Model evaluation, validation & research-paper-ready results  
-- 💬 **Ask me about:**  
+- 🤷🏻‍♂️ **Ask me about:**  
   - Remote sensing & satellite imagery analysis  
   - Google Earth Engine (GEE) workflows  
   - Flood mapping & flood risk prediction  
   - Machine learning & deep learning for geospatial data  
 - 📫 **Reach me at:** **sudiptashuvro@gmail.com**  
-- 😄 **Pronouns:** He/Him  
+- 🕴️ **Pronouns:** He/Him  
 - ⚡ **Fun fact:** I love playing games — and games love me back 🎮😄  
 
 ---
 
-### 🌟 GitHub Stats
+### 🐦‍🔥 GitHub Stats
 <div align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=paul-shuvro&show_icons=true&theme=dark&hide_border=false" height="150" alt="GitHub stats" />
@@ -44,7 +44,7 @@ Passionate about **Geospatial AI, Remote sensing and environmental risk predicti
 </p>
 
 
-## 🌐 Socials
+## 🌏 Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sudipta.paul)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sauve.sudipto)
@@ -52,7 +52,7 @@ Passionate about **Geospatial AI, Remote sensing and environmental risk predicti
 
 
 
-## 💻 Tech Stack
+## 👾 Tech Stack
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -73,13 +73,13 @@ Passionate about **Geospatial AI, Remote sensing and environmental risk predicti
 ---
 
 
-## 🐍 Contribution Snake
+## 🐉 Contribution Snake
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
 </div>
 
-## ✍️ Random Dev Quote
+## 🧧 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -92,7 +92,7 @@ Passionate about **Geospatial AI, Remote sensing and environmental risk predicti
 
 ---
 
-📧 **Email me:** ✉️ **sudiptashuvro@gmail.com**
+📮 **Email me:** ✉️ **sudiptashuvro@gmail.com**
 
 ---
 ⭐ *Proudly built with passion, curiosity, and a lot of debugging.*  
