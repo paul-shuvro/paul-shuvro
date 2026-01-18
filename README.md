@@ -92,7 +92,7 @@ Passionate about **Geospatial AI, Remote sensing and environmental risk predicti
 
 ---
 
-📮 **Email me:**  **sudiptashuvro@gmail.com**
+📮 **Email me:**  📲 **sudiptashuvro@gmail.com**
 
 ---
 ⭐ *Proudly built with passion, curiosity, and a lot of debugging.*  
