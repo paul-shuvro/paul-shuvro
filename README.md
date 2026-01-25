@@ -29,13 +29,10 @@ Passionate about **Geospatial AI, Remote sensing and environmental risk predicti
 
 ---
 
-### 🐦‍🔥 GitHub Stats
-<div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=paul-shuvro&show_icons=true&theme=dark&hide_border=false" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paul-shuvro&layout=compact&theme=dark&langs_count=6&hide_border=false" height="150" alt="Top languages" />
-  <img src="https://github-readme-streak-stats-rho-murex-11.vercel.app/?user=paul-shuvro&theme=dark&hide_border=false" height="150" alt="GitHub streak" />
-</div>
+## 🐦‍🔥 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=paul-shuvro&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=paul-shuvro&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=paul-shuvro&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
@@ -76,7 +73,11 @@ Passionate about **Geospatial AI, Remote sensing and environmental risk predicti
 
 ## 🧧 Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+
+[![](https://visitcount.itsvg.in/api?id=paul-shuvro&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 ## 🎮 Sudip🤭
@@ -90,4 +91,4 @@ Passionate about **Geospatial AI, Remote sensing and environmental risk predicti
 📮 **Email me:**  📲 **sudiptashuvro@gmail.com**
 
 ---
-⭐ *Proudly built with passion, curiosity, and a lot of debugging.*  
+⭐ *Proudly built with passion, curiosity, and a lot of debugging.* 
