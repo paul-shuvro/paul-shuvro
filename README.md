@@ -25,16 +25,18 @@ Passionate about **Geospatial AI, Remote sensing and environmental risk predicti
   - Machine learning & deep learning for geospatial data  
 - 📫 **Reach me at:** **sudiptashuvro@gmail.com**  
 - 🕴️ **Pronouns:** He/Him  
-- 🎭 **Fun fact:** I love playing games — and games love me back 🎮😄  
+- 🎭 **Fun fact:** I love playing games — and games love me back 🎮😄
 
 ---
 
 ## 🐦‍🔥 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=paul-shuvro&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=paul-shuvro&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=paul-shuvro&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=paul-shuvro&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false" height="165" />
 
+  <img src="https://nirzak-streak-stats.vercel.app/?user=paul-shuvro&theme=ambient_gradient&hide_border=false" height="165" />
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul-shuvro&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165" />
+</div>
 
 ## 🌏 Socials
 
