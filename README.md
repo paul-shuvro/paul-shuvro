@@ -75,11 +75,12 @@ Passionate about **Geospatial AI, Remote sensing and environmental risk predicti
 
 ## 🧧 Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+<div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=paul-shuvro&icon=0&color=0)](https://visitcount.itsvg.in)
+![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
 
 
 ## 🎮 Sudip🤭
