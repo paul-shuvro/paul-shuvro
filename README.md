@@ -19,7 +19,7 @@ Actively engaged in learning and innovation in **Geospatial AI, Remote sensing a
   - Improving deep learning models (CNN, LSTM, hybrid architectures)  
   - Model evaluation, validation & research-paper-ready results  
 - 🤷🏻‍♂️ **Ask me about:**  
-  - Remote sensing & satellite imagery analysis  
+  - Analysis of remote sensing data and satellite imagery 
   - Google Earth Engine (GEE) workflows  
   - Flood mapping & flood risk prediction  
   - Machine learning & deep learning for geospatial data  
