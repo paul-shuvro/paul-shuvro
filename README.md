@@ -6,7 +6,7 @@ Actively engaged in learning and innovation in **Geospatial AI, Remote sensing a
 </p>
 
 
-## 👨🏻‍🎓 About Me
+## 👨🏻‍🎓 My Journey
 
 - 🧗🏻 **Learning focus:** Geospatial AI & Remote Sensing  
 - 🧑‍💻 **Currently learning:** Satellite-based remote sensing and geospatial machine learning for environmental risk prediction  
