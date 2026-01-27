@@ -1,6 +1,6 @@
 # 🕉️ Great to be here! I’m Sudipta Paul
 
-Passionate about **Geospatial AI, Remote sensing and environmental risk prediction, Satellite Imagery and Weather Data, Machine Learning and Web Development**😊 
+Actively engaged in learning and innovation in **Geospatial AI, Remote sensing and environmental risk prediction, Satellite Imagery and Weather Data, Machine Learning and Web Development**😊 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Geospatial+AI;Remote+Sensing;Satellite+Imagery+and+Weather+Data;Web+Development;Graphics+Design" alt="Typing SVG"/>
 </p>
