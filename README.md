@@ -96,4 +96,4 @@ Actively engaged in learning and innovation in **Geospatial AI, Remote sensing a
 📮 **Email me:**  📲 **sudiptashuvro@gmail.com**
 
 ---
-⭐ *Proudly built with passion, curiosity, and a lot of debugging.* 
+⭐ *Crafted with passion, curiosity, and countless debugging sessions.* 
