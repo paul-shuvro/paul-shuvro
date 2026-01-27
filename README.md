@@ -9,7 +9,7 @@ Actively engaged in learning and innovation in **Geospatial AI, Remote sensing a
 ## 👨🏻‍🎓 My Journey
 
 - 🧗🏻 **Learning focus:** Geospatial AI & Remote Sensing  
-- 🧑‍💻 **Currently learning:** Satellite-based remote sensing and geospatial machine learning for environmental risk prediction  
+- 🧑‍💻 **Currently learning:** Leveraging satellite remote sensing and geospatial machine learning to predict environmental risks 
 - 🕵️‍♂️ **Looking to collaborate on:**  
          **Flood Prediction using Satellite & Weather Data**  
          *(Geospatial AI, Remote Sensing, CNN–LSTM, Google Earth Engine)*  
