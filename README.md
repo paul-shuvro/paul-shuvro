@@ -38,12 +38,8 @@ Actively engaged in learning and innovation in **Geospatial AI, Remote sensing a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul-shuvro&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165" />
 </div>
 
-## 🌏 Socials
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/suave.sudipto)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/suave.sudipto/?__pwa=1#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sudipta-paul)
-
+## 🏆 Featured Projects
+- **Sanatan Scriptures** 📜 Interactive web platform exploring Sanatan Dharma scriptures
 
 
 ## 👾 Tech Stack
@@ -73,7 +69,6 @@ Actively engaged in learning and innovation in **Geospatial AI, Remote sensing a
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
 </div>
 
----
 
 ## 🧧 Random Dev Quote
 
