@@ -41,9 +41,12 @@ Actively engaged in learning and innovation in **Geospatial AI, Remote sensing a
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
 </div>
 
-## 🏆 Featured Projects
+## 🏆 Featured Project
 - **Sanatan Scriptures** 📜 Interactive web platform exploring Sanatan Dharma scriptures
 
+## 🧑🏻‍🏫 Workshops
+- Stellar Light & Cosmic Bends: Data-Driven Astronomy Workshop🌠🪐 -organized by the **DIU Astrophysics Center**
+- Participated in a hands-on workshop focusing on AR/VR concepts, game development tools, and practical implementation🎮🧩 -**Organized by AR/VR & Game Development Lab, DIU**
 
 ## 👾 Tech Stack
 
