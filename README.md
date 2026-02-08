@@ -17,7 +17,6 @@ Actively engaged in learning and innovation in **Geospatial AI, Remote sensing a
   - Satellite data preprocessing (Sentinel-1 SAR, Sentinel-2, Landsat)  
   - Feature extraction and engineering from geospatial and meteorological datasets  
   - Improving deep learning models (CNN, LSTM, hybrid architectures)  
-  - Model evaluation, validation & research-paper-ready results  
 - 🤷🏻‍♂️ **Ask me about:**  
   - Analysis of remote sensing data and satellite imagery 
   - Google Earth Engine (GEE) workflows  
