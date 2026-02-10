@@ -1,9 +1,24 @@
+<img 
+  width="100%"
+  title="Sudipta Paul"
+  alt="Sudipta Paul"
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,15&height=180&section=header&text=Sudipta%20Paul&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32"
+/>
+
+<p align="center">
+  <a href="https://github.com">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com/?lines=🗺%20Geospatial%20AI;🏭%20Remote%20Sensing%20and%20Environmental%20Risk%20Prediction;🛰️%20Satellite%20Imagery%20and%20Weather%20Data;👾%20Machine%20Learning;♨️%20Web%20Development;🏄‍♂️%20Graphics%20Design&font=Pacifico&center=true&width=900&height=120&color=58a6ff&vCenter=true&size=35"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
+
+
 # 🕉️ Great to be here! I’m Sudipta Paul
 
 Actively engaged in learning and innovation in **Geospatial AI, Remote sensing and environmental risk prediction, Satellite Imagery and Weather Data, Machine Learning and Web Development**😊 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Geospatial+AI;Remote+Sensing;Satellite+Imagery+and+Weather+Data;Web+Development;Graphics+Design" alt="Typing SVG"/>
-</p>
+
 
 
 ## 👨🏻‍🎓 My Journey
