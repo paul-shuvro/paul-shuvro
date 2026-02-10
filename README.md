@@ -2,7 +2,7 @@
   width="100%"
   title="Sudipta Paul"
   alt="Sudipta Paul"
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,15&height=180&section=header&text=Sudipta%20Paul&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32"
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sudipta%20Paul&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32"
 />
 
 <p align="center">
@@ -16,9 +16,7 @@
 
 # 🕉️ 𝐆𝐫𝐞𝐚𝐭 𝐭𝐨 𝐛𝐞 𝐡𝐞𝐫𝐞! 𝐈’𝐦 𝐒𝐮𝐝𝐢𝐩𝐭𝐚 𝐏𝐚𝐮𝐥
 
-🚀 Exploring and building in  
-**Geospatial AI | Remote Sensing | Environmental Risk Prediction |  
-Satellite & Weather Data | ML | Web Development** 😊
+🎯 Actively engaged in learning and innovation in **Geospatial AI, Remote sensing and environmental risk prediction, Satellite Imagery and Weather Data, Machine Learning and Web Development**😊
 
 
 ## 👨🏻‍🎓 My Journey
@@ -107,3 +105,4 @@ Satellite & Weather Data | ML | Web Development** 😊
 
 ---
 ⭐ *Crafted with passion, curiosity, and countless debugging sessions.* 
+<img width=100% title="Sudipta Paul" alt="Sudipta PAul"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
