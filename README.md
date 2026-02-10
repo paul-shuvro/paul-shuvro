@@ -14,11 +14,11 @@
   </a>
 </p>
 
+# 🕉️ 𝐆𝐫𝐞𝐚𝐭 𝐭𝐨 𝐛𝐞 𝐡𝐞𝐫𝐞! 𝐈’𝐦 𝐒𝐮𝐝𝐢𝐩𝐭𝐚 𝐏𝐚𝐮𝐥
 
-# 🕉️ Great to be here! I’m Sudipta Paul
-
-Actively engaged in learning and innovation in **Geospatial AI, Remote sensing and environmental risk prediction, Satellite Imagery and Weather Data, Machine Learning and Web Development**😊 
-
+🚀 Exploring and building in  
+**Geospatial AI | Remote Sensing | Environmental Risk Prediction |  
+Satellite & Weather Data | ML | Web Development** 😊
 
 
 ## 👨🏻‍🎓 My Journey
