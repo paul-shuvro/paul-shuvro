@@ -60,6 +60,7 @@
 - **Library Management System** 📚- System for managing library resources and users
 - **Karigor's Corner** 🧵- Platform for showcasing and selling handicraft products
 - **C-Tokenizer** 🫧- Tool for tokenizing C source code
+- **Ray Runner** 🎮- Fast-paced arcade-style running game
 
 ## 🧑🏻‍🏫 Workshops
 - Stellar Light & Cosmic Bends: Data-Driven Astronomy Workshop🌠🪐 -organized by the **DIU Astrophysics Center**
