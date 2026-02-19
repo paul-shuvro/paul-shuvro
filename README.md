@@ -56,6 +56,10 @@
 
 ## 🏆 Featured Project
 - **Sanatan Scriptures** 📜 Interactive web platform exploring Sanatan Dharma scriptures
+- **Hospital Internal Management System**
+- **Library Management System**
+- **Karigor's Corner**
+- **C-Tokenizer**
 
 ## 🧑🏻‍🏫 Workshops
 - Stellar Light & Cosmic Bends: Data-Driven Astronomy Workshop🌠🪐 -organized by the **DIU Astrophysics Center**
