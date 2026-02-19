@@ -54,7 +54,7 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
 </div>
 
-## 🏆 Featured Project
+## 🏆 Featured Projects
 - **Sanatan Scriptures** 📜 Interactive web platform exploring Sanatan Dharma scriptures
 - **Hospital Internal Management System**
 - **Library Management System**
