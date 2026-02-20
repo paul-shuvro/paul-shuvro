@@ -60,6 +60,7 @@
 - **Library Management System** 📚- System for managing library resources and users
 - **Karigor's Corner** 🧵- Platform for showcasing and selling handicraft products
 - **C-Tokenizer** 🫧- Tool for tokenizing C source code
+- **IoT-based weather monitoring system** 🌦️- Real-time weather monitoring using IoT sensors
 - **Ray Runner** 🎮- Fast-paced arcade-style running game
 
 ## 🧑🏻‍🏫 Workshops
