@@ -62,6 +62,7 @@
 - **C-Tokenizer** 🫧- Tool for tokenizing C source code
 - **IoT-based Weather Monitoring System** 🌦️- Real-time weather monitoring using IoT sensors
 - **Ray Runner** 🎮- Fast-paced arcade-style running game
+- **Personal Portfolio** 🌐- A sleek website showcasing skills, projects, and professional identity in one place
 
 ## 🧑🏻‍🏫 Workshops
 - Stellar Light & Cosmic Bends: Data-Driven Astronomy Workshop🌠🪐 -organized by the **DIU Astrophysics Center**
