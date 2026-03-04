@@ -55,14 +55,14 @@
 </div>
 
 ## 🏆 Featured Projects
-- **Sanatan Scriptures** 📜- Interactive web platform exploring Sanatan Dharma scriptures
-- **Hospital Internal Management System** 🏥- Centralized system for managing hospital operations
-- **Library Management System** 📚- System for managing library resources and users
-- **Karigor's Corner** 🧵- Platform for showcasing and selling handicraft products
-- **C-Tokenizer** 🫧- Tool for tokenizing C source code
-- **IoT-based Weather Monitoring System** 🌦️- Real-time weather monitoring using IoT sensors
-- **Ray Runner** 🎮- Fast-paced arcade-style running game
-- **Personal Portfolio** 🌐- A sleek website showcasing skills, projects, and professional identity in one place
+- **Sanatan Scriptures** 📜- Interactive web platform exploring Sanatan Dharma scriptures.
+- **Hospital Internal Management System** 🏥- Centralized system for managing hospital operations.
+- **Library Management System** 📚- System for managing library resources and users.
+- **Karigor's Corner** 🧵- Platform for showcasing and selling handicraft products.
+- **C-Tokenizer** 🫧- Tool for tokenizing C source code.
+- **IoT-based Weather Monitoring System** 🌦️- Real-time weather monitoring using IoT sensors.
+- **Ray Runner** 🎮- Fast-paced arcade-style running game.
+- **Personal Portfolio** 🌐- A sleek website showcasing skills, projects, and professional identity in one place.
 
 ## 🧑🏻‍🏫 Workshops
 - Stellar Light & Cosmic Bends: Data-Driven Astronomy Workshop🌠🪐 -organized by the **DIU Astrophysics Center**
