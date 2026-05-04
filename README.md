@@ -37,7 +37,7 @@
   - Machine learning & deep learning for geospatial data  
 - 📫 **Reach me at:** **sudiptashuvro@gmail.com**  
 - 🕴️ **Pronouns:** He/Him  
-- 🎭 **Fun fact:** I love playing games — and games love me back 🎮😄
+- 🎭 **Fun fact:** I love playing games — and games love me back as well 🎮😄
 
 ---
 
