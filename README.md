@@ -59,7 +59,7 @@
 - **Hospital Internal Management System** 🏥- Centralized system for managing hospital operations.
 - **Library Management System** 📚- System for managing library resources and users.
 - **Karigor's Corner** 🧵- Platform for showcasing and selling handicraft products.
-- **C-Tokenizer** 🫧- Tool for tokenizing C source code.
+- **C-Tokenizer** 🫧- Tokenizing C source code for Tool.
 - **IoT-based Weather Monitoring System** 🌦️- Real-time weather monitoring using IoT sensors.
 - **Ray Runner** 🎮- Fast-paced arcade-style running game.
 - **Personal Portfolio** 🌐- A sleek website showcasing skills, projects, and professional identity in one place.
