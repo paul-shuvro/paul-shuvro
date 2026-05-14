@@ -57,7 +57,7 @@
 ## 🏆 Featured Projects
 - **Sanatan Scriptures** 📜- Interactive web platform exploring Sanatan Dharma scriptures.
 - **Hospital Internal Management System** 🏥- Centralized system for managing hospital operations.
-- **Library Management System** 📚- System for managing library resources and users.
+- **Library Management System** 📚- system for controlling users and library resources.
 - **Karigor's Corner** 🧵- Platform for showcasing and selling handicraft products.
 - **C-Tokenizer** 🫧- Tokenizing C source code for Tool.
 - **IoT-based Weather Monitoring System** 🌦️- Real-time weather monitoring using IoT sensors.
