@@ -83,6 +83,11 @@
 
 ---
 
+## Datasets
+
+| Name | Description | Link |
+|---|---|---|
+| A Predictive–Prescriptive Analytics Approach to E-Commerce Profitability Using Blended Ensemble Model | This research presents a machine learning model that combines ANN, Random Forest, and XGBoost to predict how much profit an e-commerce business can make from each order. Its main contribution is improving profit prediction (R² = 0.8708) and exploring how businesses can make better decisions about discounts and shipping methods to increase profitability. | [Ensemble Learning](https://www.researchgate.net/publication/400359185_A_Predictive-Prescriptive_Analytics_Approach_to_E-Commerce_Profitability_Using_Blended_Ensemble_Model) |
 
 ## 🧧 Random Dev Quote
 
